@@ -20,3 +20,4 @@ public class Barang {
         System.out.println();
     }
 }
+
