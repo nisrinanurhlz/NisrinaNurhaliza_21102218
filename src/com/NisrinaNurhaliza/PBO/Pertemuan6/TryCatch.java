@@ -10,7 +10,7 @@ public class TryCatch {
         int[] angka = {
                 1, 2, 3, 4, 5, 6
         };
-        System.out.println("Indeks ke 4 ada : ");
+        System.out.print("Indeks ke 4 ada : ");
         try {
             //Membuat Array Berdasarkan Indek
             System.out.println(
